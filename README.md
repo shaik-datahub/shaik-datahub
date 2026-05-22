@@ -40,7 +40,7 @@
 
 ### 📈 Port Scan Intrusion Detection Using Machine Learning
 
-🔗 https://github.com/shaik-datahub/data-analysis-projects
+🔗 https://github.com/shaik-datahub/port-scan-intrusion-detection 
 
 * Developed a machine learning-based intrusion detection system to identify port scan attacks using network traffic analysis and classification algorithms using Python and Scikit-learn.
 ---
