@@ -38,21 +38,11 @@
 * Analyzed sales, profit, and regional trends
 * Generated actionable business insights
 
-### 🎓 Student Performance Prediction
-
-🔗 https://github.com/shaik-datahub/student-performance-prediction
-
-* Developed ML models using Python & Scikit-learn
-* Applied Regression & Classification techniques
-* Improved model accuracy using feature engineering
-
-### 📈 Data Analysis Projects
+### 📈 Port Scan Intrusion Detection Using Machine Learning
 
 🔗 https://github.com/shaik-datahub/data-analysis-projects
 
-* Performed EDA using Pandas, NumPy, Matplotlib
-* Extracted insights from real-world datasets
-
+* Developed a machine learning-based intrusion detection system to identify port scan attacks using network traffic analysis and classification algorithms using Python and Scikit-learn.
 ---
 
 ## 🛠️ Tech Stack & Skills
