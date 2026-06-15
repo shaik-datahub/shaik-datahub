@@ -87,6 +87,12 @@ Developed a machine learning-based intrusion detection system to identify port s
 
 🔗 [View Project](https://github.com/shaik-datahub/port-scan-intrusion-detection)
 
+🎓 Student Performance Prediction (ML)
+Python · Scikit-learn · Streamlit · Predictive Analytics · Classification
+
+Developed an interactive machine learning web application to predict online student outcomes (Pass/Fail/Excel) using academic engagement features, featuring automated recommendations for student intervention.
+
+🔗 [View Project](https://github.com/shaik-datahub/student-performance-prediction)
 ---
 
 ## 🌐 Connect With Me
